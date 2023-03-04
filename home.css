@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+
+body {
+    font-family: 'Viga', sans-serif;
+    background-color: rgb(236, 236, 236) !important;
+}
+
+
+.flex-bottom {
+    margin: auto;
+    width: 40%;
+    height: 30vh;
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 250px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 1px 3px 3px rgb(91, 91, 91);
+}
+
+.flex-bottom p {
+    margin-top: -10px;
+    margin-bottom: 40px;
+}
+.btn-outline-secondary a{
+    text-decoration: none;
+    color: rgb(3, 95, 90);
+}
+
+.btn-outline-secondary {
+    width: 20%;
+    margin: 0 10px;
+}
+
+.btn-outline-secondary:hover{
+    background-color:rgb(3, 95, 90) ;
+}
+
+.btn-outline-secondary a:hover{
+    
+    color: rgb(255, 255, 255);
+}

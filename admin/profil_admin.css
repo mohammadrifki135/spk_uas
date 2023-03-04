@@ -1,0 +1,43 @@
+.panel-body {
+    display: flex;
+    padding: 20px !important;
+}
+
+.panel-body-item-satu{
+    width: 35%;
+    padding: 60px 100px;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    
+}
+
+
+
+.panel-body-item-dua{
+    width: 70%;
+    border-radius: 5px;
+    padding: 20px;
+    margin-left: 5px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.panel-body-item-dua h4 {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.data-profil{
+    display: flex;
+    
+}
+
+ 
+.data-profil .data-input {
+    width: 15%;
+    margin-left: 40px;
+}
+
