@@ -19,6 +19,9 @@
           <button type="button" class="btn btn-outline-secondary">
               <a href="user/login.php">User</a>
           </button>
+          <button type="button" class="btn btn-outline-secondary">
+              <a href="user/login.php">User</a>
+          </button>
       </div>
   </div>
 
